@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FanweLive_android.iml" filepath="$PROJECT_DIR$/FanweLive_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fanweHybridLive/fanweHybridLive.iml" filepath="$PROJECT_DIR$/fanweHybridLive/fanweHybridLive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libApp/libApp.iml" filepath="$PROJECT_DIR$/libApp/libApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libGame/libGame.iml" filepath="$PROJECT_DIR$/libGame/libGame.iml" />
+    </modules>
+  </component>
+</project>
